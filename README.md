@@ -39,16 +39,8 @@ The project uses the following architecture:
 
 ### Architecture Diagram
 
-> 📌 **PLACE THE ARCHITECTURE IMAGE HERE**
->
-> Add the architecture image created for this project below this section.
->
-> Recommended location in your repository:
->
-> `ARCHITECTURE_DIAGRAM`
-
 ```text
-![NYC Taxi Data Engineering Architecture](docs/architecture.png)
+![NYC Taxi Data Engineering Architecture](ARCHITECTURE_DIAGRAM)
 ```
 
 ---
