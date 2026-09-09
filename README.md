@@ -52,7 +52,8 @@ Analysts & Business Users
 
 
 ---
-
+## Data Source
+[NYC TLC Trip Record Data – Green Taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 ## 🔄 Pipeline Steps
 
 ### 1. Data Ingestion
