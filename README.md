@@ -49,7 +49,7 @@ Analysts & Business Users
 
 
 ```markdown
-![Architecture](ARCHITECTURE_DIAGRAM.png)
+![Architecture Diagram](./ARCHITECTURE_DIAGRAM.png)
 ```
 
 ---
