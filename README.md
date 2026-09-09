@@ -40,7 +40,7 @@ The project uses the following architecture:
 ### Architecture Diagram
 
 ```text
-![NYC Taxi Data Engineering Architecture](ARCHITECTURE_DIAGRAM)
+![NYC Taxi Data Engineering Architecture](ARCHITECTURE_DIAGRAM.png)
 ```
 
 ---
