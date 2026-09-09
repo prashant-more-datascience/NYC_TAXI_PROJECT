@@ -48,9 +48,8 @@ Analysts & Business Users
 ### Architecture Diagram
 
 
-```markdown
 ![Architecture Diagram](./ARCHITECTURE_DIAGRAM.png)
-```
+
 
 ---
 
